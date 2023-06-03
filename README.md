@@ -1,1 +1,1 @@
-🍁 Fibonacci sequence herb
+🍁 Fibonacci sequence 🌿
