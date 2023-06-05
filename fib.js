@@ -6,7 +6,7 @@ function fibonacci(n) {
   } else if (n === 2) {
     return [0, 1];
   } else {
-    let sequence = [0, 1];
+    const sequence = [0, 1];
     for (let i = 2; i < n; i++) {
       sequence.push(sequence[i - 1] + sequence[i - 2]);
     }
